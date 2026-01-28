@@ -4,10 +4,15 @@ html {
 
 body {
     min-height: 100vh;
+<<<<<<< HEAD
+=======
+    max-width: 800px;
+>>>>>>> 3d2e502adf0cda87f7d8765a432c40c3027cb4f9
     margin: 0 auto;
     padding: 1rem;
     border-left: 1px solid #333;
     border-right: 1px solid #333;
+<<<<<<< HEAD
     box-sizing: border-box;
 }
 
@@ -30,6 +35,8 @@ max-width: 100%;
  max-width: 100%;
  height: auto;
  display: block;
+=======
+>>>>>>> 3d2e502adf0cda87f7d8765a432c40c3027cb4f9
 }
 
 th, td, caption {
